@@ -1,4 +1,4 @@
-##Application of recent methods of audio signals' feature extraction to classification of studio recorded and live performed tracks.
+## Application of recent methods of audio signals' feature extraction to classification of studio recorded and live performed tracks.
 
 The aim of this thesis is a comparative analysis of various approaches to the classification of music recordings in studio and concert recording forms. The approaches are divided into two groups: the so-called "classical" methods (implemented as baseline methods) and deep learning methods ("modern" methods). In this paper, the emphasis is placed on deep learning methods.
 
